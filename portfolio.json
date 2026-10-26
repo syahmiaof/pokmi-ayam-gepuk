@@ -1,0 +1,15 @@
+{
+  "slug": "pokmi",
+  "title": "Ayam Gepuk Pokmi",
+  "subtitle": "Sambal Noir meets Gepuk Pop.",
+  "status": "active",
+  "description": "A concept storefront for Ayam Gepuk Pokmi with interactive menu details, sample location content, and a responsive brand experience. Ordering and payment are not connected.",
+  "stack": [
+    "React",
+    "TypeScript",
+    "Vite",
+    "Tailwind CSS"
+  ],
+  "liveUrl": "https://ayamgepukpokmi.syahmiaof.my/",
+  "image": "public/og-image.jpg"
+}
