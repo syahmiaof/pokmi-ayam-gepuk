@@ -2,27 +2,33 @@
   <h1>AYAM GEPUK POKMI</h1>
   <p><strong>Sambal Noir × Gepuk Pop: Visual Prototype & Digital Experience untuk Jenama Makanan Jalanan Premium</strong></p>
   <p>
-    <a href="https://ayamgepukpokmi.syahmiaof.my/"><img src="https://img.shields.io/badge/Demo-Live-60E1B5?style=for-the-badge&logoColor=60E1B5&labelColor=101713" alt="Demo"></a>
-    <a href="https://github.com/syahmiaof/pokmi-ayam-gepuk"><img src="https://img.shields.io/badge/Source-GitHub-60E1B5?style=for-the-badge&logo=github&logoColor=60E1B5&labelColor=101713" alt="GitHub"></a>
-    <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-60E1B5?style=for-the-badge&logoColor=60E1B5&labelColor=101713" alt="License"></a>
-    <a href="https://github.com/syahmiaof/pokmi-ayam-gepuk/actions"><img src="https://img.shields.io/badge/CI-Passing-60E1B5?style=for-the-badge&logo=githubactions&logoColor=60E1B5&labelColor=101713" alt="CI"></a>
-    <a href="https://syahmiaof.my"><img src="https://img.shields.io/badge/Portfolio-syahmiaof.my-60E1B5?style=for-the-badge&logo=vercel&logoColor=60E1B5&labelColor=101713" alt="Portfolio"></a>
+    <a href="https://ayamgepukpokmi.syahmiaof.my"><img src="https://img.shields.io/badge/Demo-Live-60E1B5?style=for-the-badge&logoColor=60E1B5&labelColor=101713" alt="Demo Live" /></a>
+    <a href="https://github.com/syahmiaof/pokmi-ayam-gepuk"><img src="https://img.shields.io/badge/Source-GitHub-60E1B5?style=for-the-badge&logo=github&logoColor=60E1B5&labelColor=101713" alt="GitHub Source" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-All_Rights_Reserved-60E1B5?style=for-the-badge&logoColor=60E1B5&labelColor=101713" alt="License: All Rights Reserved" /></a>
+    <a href="https://github.com/syahmiaof/pokmi-ayam-gepuk/actions"><img src="https://img.shields.io/badge/CI-Passing-60E1B5?style=for-the-badge&logo=githubactions&logoColor=60E1B5&labelColor=101713" alt="CI Passing" /></a>
+    <a href="https://syahmiaof.my"><img src="https://img.shields.io/badge/Author-syahmiaof-60E1B5?style=for-the-badge&logo=vercel&logoColor=60E1B5&labelColor=101713" alt="Author" /></a>
   </p>
+
+  <img src="public/og-image.jpg" alt="Preview Ayam Gepuk Pokmi" width="100%" style="border-radius: 8px; box-shadow: 0 0 30px rgba(96,225,181,0.2);" />
+
+  <br/><br/>
+
+  <p><strong>Prototaip visual interaktif dan laman pengalaman digital yang direka untuk jenama makanan jalanan moden Malaysia.</strong></p>
+
+  <p><a href="https://ayamgepukpokmi.syahmiaof.my">Live Experience</a> • <a href="#-project-overview">Overview</a> • <a href="#-ciri-ciri-utama-key-features">Features</a> • <a href="#-tech-stack">Tech Stack</a> • <a href="#-struktur-kod-project-structure">Structure</a></p>
 </div>
 
-![Preview Ayam Gepuk Pokmi](public/og-image.jpg)
+---
+
+## 💎 Project Overview
+
+- **Functionality**: Interactive digital storefront and culinary experience showcasing signature gepuk chicken combos, dynamic spice-meter matrix, interactive branch locator, and seamless order simulation.
+- **Aesthetic Value**: Streetwear-inspired Malaysian brutalist-pop art direction featuring deep noir contrast, hot mustard accents, bold display typography, and smooth reveal animations.
+- **Business Value**: Translates physical Malaysian street food culture into an engaging, high-retention digital brand asset engineered for viral social engagement.
 
 ---
 
-## Gambaran Keseluruhan (Overview)
-
-**Ayam Gepuk Pokmi** ialah prototaip visual interaktif dan laman pengalaman digital (*digital brand showcase*) yang direka untuk jenama makanan jalanan moden Malaysia. Menggabungkan estetika brutalist jalanan dengan palet warna hangat (*Noir, Deep Crimson, Hot Mustard, Cream*), laman ini mempamerkan menu signatur ayam gepuk bersama sambal istimewa (Sambal Gajus, Sambal Hijau, Sambal Bakar Berasap), kerangupan enoki krispi, dan pengalaman pesanan pantas.
-
-Dibina menggunakan **React 18**, **TypeScript**, **Tailwind CSS**, dan dioptimumkan menggunakan **Vite** untuk prestasi render kilat dengan sifar kebergantungan luar yang berat.
-
----
-
-## Ciri-Ciri Utama (Key Features)
+## ✨ Ciri-Ciri Utama (Key Features)
 
 - **Sambal Matrix Interaktif**: Terokai profil kepedasan, tekstur, dan ramuan 3 sambal signatur Pokmi dengan visual kad interaktif.
 - **Dulang Menu Signatur**: Paparan hidangan padu lengkap dengan maklumat rempah, tahap pedas (1–5 bintang), dan nota tekstur.
@@ -32,7 +38,19 @@ Dibina menggunakan **React 18**, **TypeScript**, **Tailwind CSS**, dan dioptimum
 
 ---
 
-## Struktur Kod (Project Structure)
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_18-101713?style=for-the-badge&logo=react&logoColor=60E1B5&labelColor=101713" alt="React 18" />
+  <img src="https://img.shields.io/badge/TypeScript-101713?style=for-the-badge&logo=typescript&logoColor=60E1B5&labelColor=101713" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-101713?style=for-the-badge&logo=tailwindcss&logoColor=60E1B5&labelColor=101713" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-101713?style=for-the-badge&logo=vite&logoColor=60E1B5&labelColor=101713" alt="Vite" />
+  <img src="https://img.shields.io/badge/Vercel-101713?style=for-the-badge&logo=vercel&logoColor=60E1B5&labelColor=101713" alt="Vercel" />
+</p>
+
+---
+
+## 📁 Struktur Kod (Project Structure)
 
 ```text
 demo-pokmi/
@@ -55,48 +73,21 @@ demo-pokmi/
 
 ---
 
-## Arahan Pembangunan (Development & Build)
+## ⚠️ Had (Limits)
 
-### Keperluan
-- Node.js 18+ atau 20+
-- npm 9+
-
-### Langkah Pemasangan
-
-```bash
-# 1. Pasang dependencies
-npm install
-
-# 2. Jalankan server pembangunan setempat
-npm run dev
-
-# 3. Jalankan semakan jenis TypeScript
-npm run typecheck
-
-# 4. Jalankan analisis kod (linter)
-npm run lint
-
-# 5. Bina pakej pengeluaran (production build)
-npm run build
-
-# 6. Pratonton hasil binaan
-npm run preview
-```
+Nama cawangan, alamat, waktu operasi dan nombor telefon yang dipaparkan ialah placeholder demo, bukan butiran kedai sebenar. Foto makanan menggunakan imej luaran berlesen. Butang sosial berlabel demo tidak membuka akaun rasmi.
 
 ---
 
-## Had (Limits)
+## 📜 Lesen & Hak Cipta
 
-Nama cawangan, alamat, waktu operasi dan nombor telefon yang dipaparkan ialah **placeholder demo**, bukan butiran kedai sebenar. Foto makanan menggunakan imej luaran Unsplash. Butang sosial berlabel demo tidak membuka akaun rasmi.
-
----
-
-## Builder
-
-[Muhammad Syahmi](https://syahmiaof.my)
+Hak cipta terpelihara (c) 2026 **Muhammad Syahmi (syahmiaof)**. Dilesenkan di bawah [Proprietary All Rights Reserved](LICENSE).
 
 ---
 
-## Lesen & Hak Cipta
+## 👑 Builder
 
-Dilesenkan di bawah [Lesen MIT](LICENSE). Hak Cipta © 2026 [Muhammad Syahmi](https://syahmiaof.my).
+**Muhammad Syahmi (syahmiaof)**  
+- Portfolio: [syahmiaof.my](https://syahmiaof.my)  
+- GitHub: [@syahmiaof](https://github.com/syahmiaof)  
+- Live Project: [ayamgepukpokmi.syahmiaof.my](https://ayamgepukpokmi.syahmiaof.my)
