@@ -307,7 +307,7 @@ function useScrollReveal() {
   }, []);
 }
 
-export default function App() {
+export default function AyamGepukPokmi() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [activeSambalIdx, setActiveSambalIdx] = useState(1);
